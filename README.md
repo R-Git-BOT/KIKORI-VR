@@ -1,1 +1,2 @@
-# Unityにインポートして使ってね（Unity Githubからアップロード）
+# Unityにインポートして使ってね
+（Unity Githubからアップロードしました）
